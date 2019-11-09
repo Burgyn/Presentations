@@ -4,11 +4,11 @@
 # Azure pre vývojárov
 @snapend
 
-@snap[norht-east]
-@img[clip-img span-80](assets/img/avatar.jpg.jpg)
+@snap[north-east]
+@img[clip-img span-80](assets/img/avatar.jpg)
 @snapend
 
-@snap[norht-east text-center]
+@snap[north-east text-center]
 
 Milan Martiniak
 
