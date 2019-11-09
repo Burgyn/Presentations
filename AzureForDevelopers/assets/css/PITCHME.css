@@ -2,3 +2,8 @@
     clip-path: circle(30% at 50% 50%);
     -webkit-clip-path: circle(30% at 50% 50%);
   }
+
+  .reveal section img {
+    border: 50;
+    box-shadow: none;
+  }
