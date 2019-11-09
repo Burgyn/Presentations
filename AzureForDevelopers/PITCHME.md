@@ -5,7 +5,7 @@
 @snapend
 
 @snap[north-east]
-![image]([assets/img/IMAG2408.jpg](https://miro.medium.com/max/300/1*SLmk-xp-dv7aS8XLabqlwA.gif))
+![No integration tests](https://miro.medium.com/max/300/1*SLmk-xp-dv7aS8XLabqlwA.gif)
 @snapend
 
 @snap[north-east text-center]
