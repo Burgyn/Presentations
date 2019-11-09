@@ -1,0 +1,5 @@
+MD013: false # MD013/line-length: Line length
+MD022: false # MD022/blanks-around-headings/blanks-around-headers: Headings should be surrounded by blank lines
+MD025: false # MD025/single-title/single-h1: Multiple top level headings in the same document
+MD032: false # MD032/blanks-around-lists: Lists should be surrounded by blank lines
+MD041: false # MD041/first-line-heading/first-line-h1: First line in file should be a top level heading
