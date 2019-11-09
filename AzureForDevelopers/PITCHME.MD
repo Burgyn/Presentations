@@ -1,10 +1,10 @@
----?color=linear-gradient(90deg, white 75%, black 25%)
+---?color=linear-gradient(90deg, white 70%, black 30%)
 
 @snap[west span-40]
 # Azure pre vývojárov
 @snapend
 
-@snap[norht-east span-90]]
+@snap[norht-east]
 @img[clip-img span-80](assets/img/avatar.jpg)
 @snapend
 
