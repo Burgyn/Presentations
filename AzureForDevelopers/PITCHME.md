@@ -1,6 +1,6 @@
 ---?color=linear-gradient(90deg, white 70%, black 30%)
 
-@snap[west span-40]
+@snap[west span-60]
 # Azure pre vývojárov
 @snapend
 
