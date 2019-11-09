@@ -8,7 +8,7 @@
 @img[clip-img span-30](AzureForDevelopers/assets/img/avatar.jpg)
 @snapend -->
 
-@snap[north-east text-center span-40]
+@snap[east text-center span-40]
 
 Milan Martiniak
 
