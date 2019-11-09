@@ -5,7 +5,7 @@
 @snapend
 
 @snap[north-east]
-@img[clip-img span-80](assets/img/IMAG2408.jpg)
+![image]([assets/img/IMAG2408.jpg](https://miro.medium.com/max/300/1*SLmk-xp-dv7aS8XLabqlwA.gif))
 @snapend
 
 @snap[north-east text-center]
