@@ -5,7 +5,7 @@
 @snapend
 
 @snap[north-east]
-![No integration tests](assets/img/IMAG2408.jpg)
+![No integration tests]([assets/img/IMAG2408.jpg](https://github.com/Burgyn/Presentations/blob/master/AzureForDevelopers/assets/img/avatar.jpg?raw=true))
 @snapend
 
 @snap[north-east text-center]
