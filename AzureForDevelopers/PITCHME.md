@@ -8,4 +8,10 @@
 @img[clip-img span-80](assets/img/avatar.jpg.jpg)
 @snapend
 
+@snap[norht-east text-center]
+
+Milan Martiniak
+
+@snapend
+
 ---
