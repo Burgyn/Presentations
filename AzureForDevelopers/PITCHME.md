@@ -4,8 +4,8 @@
 ## Azure pre vývojárov
 @snapend
 
-@snap[north-east text-center span-60]
-@img[avatar-img](AzureForDevelopers/assets/img/avatar.jpg)
+@snap[north-east text-center]
+@img[avatar-img span-60](AzureForDevelopers/assets/img/avatar.jpg)
 @snapend
 
 
