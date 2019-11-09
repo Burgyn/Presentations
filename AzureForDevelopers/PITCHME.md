@@ -5,7 +5,7 @@
 @snapend
 
 @snap[norht-east]
-![avatar](assets/img/avatar.jpg)
+@img[clip-img span-80](assets/img/avatar.jpg.jpg)
 @snapend
 
 ---
