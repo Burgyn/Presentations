@@ -5,7 +5,7 @@
 @snapend
 
 @snap[north-east text-center span-60]
-<!-- @img[clip-img](AzureForDevelopers/assets/img/avatar.jpg) -->
+@img[avatar-img](AzureForDevelopers/assets/img/avatar.jpg)
 @snapend
 
 @snap[east span-25 text-center]
