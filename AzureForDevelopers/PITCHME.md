@@ -1,6 +1,6 @@
 ---?color=linear-gradient(90deg, white 65%, #5384AD 35%)
 
-@snap[west span-60]
+@snap[west span-60 text-center]
 ## Azure pre vývojárov
 @snapend
 
@@ -8,7 +8,7 @@
 @img[clip-img span-30](AzureForDevelopers/assets/img/avatar.jpg)
 @snapend
 
-@snap[east text-center span-30]
+@snap[east text-center span-35]
 
 Milan Martiniak
 
