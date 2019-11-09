@@ -14,5 +14,3 @@
 Milan Martiniak
 
 @snapend
-
----
