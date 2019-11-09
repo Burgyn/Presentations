@@ -8,15 +8,11 @@
 @img[avatar-img](AzureForDevelopers/assets/img/avatar.jpg)
 @snapend
 
-@snap[east span-25 text-center]
-# @fa[laptop-code text-black]
-@snapend
 
-
-<!-- @snap[east span-25 text-center text-07]
+@snap[east span-25 text-center text-07]
 
 Milan Martiniak
 
-@snapend -->
+@snapend
 
 ---

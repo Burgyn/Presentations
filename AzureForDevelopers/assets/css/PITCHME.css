@@ -1,11 +1,9 @@
 .reveal img.avatar-img {
     clip-path: circle(30% at 50% 50%);
     -webkit-clip-path: circle(30% at 50% 50%);
-    width: 30px;
-    height: 30px;
   }
 
-  .reveal section img {
+  /* .reveal section img {
     border: 50;
     box-shadow: none;
-  }
+  } */
