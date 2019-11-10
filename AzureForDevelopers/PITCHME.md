@@ -53,24 +53,24 @@ github.com/Burgyn
 
 @snap[west span-40 text-center]
 
-## Čo je to Azure?
+### Čo je to Azure?
 ![GRAPHQL](https://stackify.com/wp-content/uploads/2017/10/microsoft-azure-managed-services-2-1-793x397.png)
 
 @snapend
 
-@snap[north-east span-40 text-08]
+@snap[north-east span-30 text-07]
 @box[bg-green fragment](Dátové centrá# Azure poskytuje dátové centrá po celom svete)
 @snapend
 
-@snap[east span-40 text-08]
+@snap[east span-30 text-07]
 @box[bg-blue fragment](Hardware# Azure poskytuje hardware)
 @snapend
 
-@snap[south-east span-40 text-08]
+@snap[south-east span-30 text-07]
 @box[bg-gold fragment](Skužby# Umožňuje Vám využívať ich služby)
 @snapend
 
-@snap[south-east span-40 text-08]
+@snap[south-east span-30 text-07]
 @box[bg-red fragment](Management# Poskytuje Vám management zdrojov, ktoré chcete využívať. Portál/SDK)
 @snapend
 
