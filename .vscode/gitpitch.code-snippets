@@ -1,0 +1,70 @@
+{
+	"Snap": {
+		"scope": "markdown",
+		"prefix": "gp-snap",
+		"body": [
+			"@snap[${1|midpoint,north,south,east,west,north-east,north-west,south-east,south-west|}]",
+			"${TM_SELECTED_TEXT}",
+			"@snapend"
+		],
+		"description": "Add snap layout block"
+	},
+	"Snapend": {
+		"scope": "markdown",
+		"prefix": "gp-snapend",
+		"body": [
+			"@snapend"
+		],
+		"description": "Add snap layout end keyword"
+	},
+	"Snap with span": {
+		"scope": "markdown",
+		"prefix": "gp-snap-span",
+		"body": [
+			"@snap[${1|midpoint,north,south,east,west,north-east,north-west,south-east,south-west|} span-${2:xxx}]",
+			"${TM_SELECTED_TEXT}",
+			"@snapend"
+		],
+		"description": "Add snap layout block with span"
+	},
+	"Span": {
+		"scope": "markdown",
+		"prefix": "gp-span",
+		"body": [
+			"span-${1:xxx}"
+		],
+		"description": "Add span"
+	},
+	"Delimiter with color gradient": {
+		"scope": "markdown",
+		"prefix": "gp-delimiter-color-gradient",
+		"body": [
+			"---?color=linear-gradient(${1:deg}deg, ${2:first-color} ${3:first-color-ratio}%, ${4:second-color} ${5:second-color-ratio}%)"
+		],
+		"description": "Add slide delimiter with color gradient"
+	},
+	"Snap position norht-east": {
+		"scope": "markdown",
+		"prefix": "gp-north-east",
+		"body": [
+			"north-east"
+		],
+		"description": "Add north-east position"
+	},
+	"Snap position south-east": {
+		"scope": "markdown",
+		"prefix": "gp-south-east",
+		"body": [
+			"south-east"
+		],
+		"description": "Add south-east position"
+	},
+	"Text center": {
+		"scope": "markdown",
+		"prefix": "gp-text-center",
+		"body": [
+			"text-center"
+		],
+		"description": "Add text-center"
+	}
+}
