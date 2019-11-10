@@ -17,8 +17,8 @@ Milan Martiniak
 
 @snap[south-east text-05]
 
-@img[span-5](AzureForDevelopers/assets/img/twitter.png) @minomartiniak
-@img[span-5](AzureForDevelopers/assets/img/outlook.png) martiniak@kros.sk
-@img[span-5](AzureForDevelopers/assets/img/github.png) github.com/burgyn
+@img[span-3](AzureForDevelopers/assets/img/twitter.png) @minomartiniak
+@img[span-3](AzureForDevelopers/assets/img/outlook.png) martiniak@kros.sk
+@img[span-3](AzureForDevelopers/assets/img/github.png) github.com/burgyn
 
 @snapend
