@@ -56,7 +56,7 @@ github.com/Burgyn
 - Dátové centrá
 - Hardware
 - Služby
-- Management (portál/cdk)
+- Management (portál/sdk)
 - ...
 
 ---
@@ -75,6 +75,6 @@ obrázok s kontajnerom
 
 obrázok so službami
 
----color=green
+---?color=#27ae60
 
-demo
+## DEMO
