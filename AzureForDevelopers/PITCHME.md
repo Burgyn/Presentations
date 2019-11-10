@@ -71,15 +71,19 @@ github.com/Burgyn
 ---
 
 @img[span-90](https://www.afcea.org/content/sites/default/files/styles/flexslider_full/public/field/image/F7%20Jan%20choice%201%20as%20main%20photo%20Microsoft%20Azure%20data%20center%20in%20rural%20area.jpg?itok=oeTjtjOE)
+<!-- datacenter -->
 
 ---
 @img[span-90](https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2018/04/azure-map.jpg?itok=hc5BJbWH)
+<!-- datacenter list -->
 
 ---
-@img[span-90](https://cnet3.cbsistatic.com/img/IchVj572mKIJ9YRqXOznSl_iFmU=/2010/07/09/611cf69f-fdc3-11e2-8c7c-d4ae52e62bcc/CH1180INAFRIED_540x386.jpg)
+@img[span-80](https://cnet3.cbsistatic.com/img/IchVj572mKIJ9YRqXOznSl_iFmU=/2010/07/09/611cf69f-fdc3-11e2-8c7c-d4ae52e62bcc/CH1180INAFRIED_540x386.jpg)
+<!-- kontajner -->
 
 ---
 @img[span-90](https://cloudyinnashville.files.wordpress.com/2016/09/image3.png)
+<!-- services -->
 
 ---?color=#27ae60
 
@@ -87,4 +91,4 @@ github.com/Burgyn
 
 ---?color=white
 
-@img[span-90](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
+@img[span-60](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
