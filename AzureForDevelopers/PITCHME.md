@@ -101,7 +101,7 @@ github.com/Burgyn
 
 @snap[south-east span-50]
 ### Continuous 
-### integration / 
+### integration 
 ### delivery
 28.1.2020 17:00 
 Kros 3. poschodie
