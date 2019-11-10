@@ -91,4 +91,4 @@ github.com/Burgyn
 
 ---?color=white
 
-@img[span-60](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
+@img[span-50](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
