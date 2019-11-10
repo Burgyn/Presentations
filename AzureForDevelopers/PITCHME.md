@@ -74,6 +74,8 @@ github.com/Burgyn
 
 ---?image=https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2018/04/azure-map.jpg?itok=hc5BJbWH
 
+## Zoznam centier
+
 ---
 
 obrázok s kontajnerom
