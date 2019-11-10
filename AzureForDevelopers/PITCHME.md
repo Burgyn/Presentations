@@ -4,7 +4,7 @@
 ## Azure pre vývojárov
 @snapend
 
-@snap[north-east span-25 -center]
+@snap[north-east span-27 -center]
 @img[shadow](AzureForDevelopers/assets/img/IMAG2408.jpg)
 @snapend
 
