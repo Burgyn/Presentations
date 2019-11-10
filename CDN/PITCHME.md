@@ -1,4 +1,4 @@
----?color=linear-gradient(100deg, white 50%, #95a5a6 50.2%)
+---?color=linear-gradient(100deg, white 50%, #34495e 50.2%)
 
 @snap[west span-50]
 ## Cloud Design #02
