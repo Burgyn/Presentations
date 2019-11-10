@@ -13,7 +13,12 @@ theme-code       : [ "Fira Code" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "0" ]
 
-highlight        : ir-black
+#highlight        : ir-black
+
+title: Azure pre vývojárov
+logo: https://avatars1.githubusercontent.com/u/38498082?s=200
+
+highlight: atom-one-light
 
 #
 # Highlight Setting
