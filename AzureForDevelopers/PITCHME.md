@@ -58,7 +58,7 @@ github.com/Burgyn
 
 @snapend
 
-@ul[east text-left left-5]
+@ul[east text-left]
 
 - Dátové centrá
 - Hardware
