@@ -51,7 +51,7 @@ github.com/Burgyn
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
-@snap[west span-40 text-center]
+@snap[west span-40 text-center h3-black]
 
 ### Čo je to Azure?
 ![GRAPHQL](https://stackify.com/wp-content/uploads/2017/10/microsoft-azure-managed-services-2-1-793x397.png)
