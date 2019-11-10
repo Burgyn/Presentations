@@ -9,7 +9,7 @@
 @snapend
 
 
-@snap[east span-25 text-center text-07]
+@snap[east span-27 text-center text-07]
 
 Milan Martiniak
 
