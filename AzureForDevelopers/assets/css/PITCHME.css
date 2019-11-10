@@ -1,7 +1,7 @@
-/* .reveal img.avatar-img {
+.reveal img.avatar-img {
     clip-path: circle(30% at 50% 50%);
     -webkit-clip-path: circle(30% at 50% 50%);
-  } */
+  }
 
   /* .reveal section img {
     border: 50;
@@ -10,4 +10,8 @@
 
   .shadow {
     box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
+  }
+
+  .mino{
+    background: black;
   }
