@@ -1,6 +1,6 @@
 ---?color=linear-gradient(100deg, white 50%, #1F6ED4 50.2%)
 
-@snap[west span-60]
+@snap[west span-50]
 ## Cloud Design #02
 ### Developers meetup #47
 @snapend
