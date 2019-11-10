@@ -5,7 +5,7 @@
 @snapend
 
 @snap[north-east span-25 -center]
-@img[avatar-img shadow](AzureForDevelopers/assets/img/avatar.jpg)
+@img[shadow](AzureForDevelopers/assets/img/avatar.jpg)
 @snapend
 
 
