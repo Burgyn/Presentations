@@ -66,5 +66,22 @@
 			"text-center"
 		],
 		"description": "Add text-center"
+	},
+	"Image": {
+		"scope": "markdown",
+		"prefix": "gp-image",
+		"body": [
+			"@img[](${1:url})"
+		],
+		"description": "Add image"
+	}
+	,
+	"Image with span": {
+		"scope": "markdown",
+		"prefix": "gp-image-span",
+		"body": [
+			"@img[span-${1:xxx}](${2:url})"
+		],
+		"description": "Add image with span"
 	}
 }

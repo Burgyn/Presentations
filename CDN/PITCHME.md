@@ -8,3 +8,6 @@
 @snap[east span-50 h3-white]
 @fa[quote-left](Doing the Right Things & Doing Things Right)
 @snapend
+
+---
+@img[span-80](https://docs.microsoft.com/en-us/azure/cdn/media/cdn-overview/cdn-overview.png)
