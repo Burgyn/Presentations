@@ -84,6 +84,6 @@ obrázok s kontajnerom
 
 obrázok so službami
 
----?color=#27ae60`
+---?color=#27ae60
 
 ## DEMO
