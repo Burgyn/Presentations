@@ -100,6 +100,9 @@ github.com/Burgyn
 @snapend
 
 @snap[south-east span-50]
-### Continuous integration/delivery
-28.1.2020 17:00 Kros 3. poschodie
+### Continuous 
+### integration / 
+### delivery
+28.1.2020 17:00 
+Kros 3. poschodie
 @snapend
