@@ -5,7 +5,7 @@
 @snapend
 
 @snap[north-east span-24 -center]
-@img[shadow](AzureForDevelopers/assets/img/avatar.jpg)
+@img[shadow](AzureForDevelopers/assets/img/IMAG2408.jpg)
 @snapend
 
 
@@ -15,10 +15,10 @@ Milan Martiniak
 
 @snapend
 
-@snap[south-east]
+@snap[south-east text-5]
 
-@minomartiniak
-martiniak@kros.sk
-github.com/burgyn
+@img[](AzureForDevelopers/assets/img/twitter.png) @minomartiniak
+@img[](AzureForDevelopers/assets/img/outlook.png) martiniak@kros.sk
+@img[](AzureForDevelopers/assets/img/github.png) github.com/burgyn
 
 @snapend
