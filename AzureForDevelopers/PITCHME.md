@@ -9,9 +9,16 @@
 @snapend
 
 
-@snap[east span-24 text-center text-07]
+@snap[east span-24` text-center text-07]
 
 Milan Martiniak
 
+@snapend
+
+@snap[south-east]
+
+@minomartiniak
+martiniak@kros.sk
+github.com/burgyn
 
 @snapend
