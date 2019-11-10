@@ -95,10 +95,11 @@ github.com/Burgyn
 
 ---?color=linear-gradient(100deg, white 50%, #1F6ED4 50.2%)
 
-@snap[west span-60]
+@snap[west span-70]
 @img[shadow](https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/71581737_10156577632582844_3229986981945540608_o.jpg?_nc_cat=110&_nc_oc=AQmfuBqruWK48h2YiDZo1nCh1_ipiao0dEZ_wBgBI0bXYSw5Vxj40Zqmhy37ZiSu8cY&_nc_ht=scontent-frx5-1.xx&oh=b9cdb19f29b53387eb2bb51aef805016&oe=5E4712BF)
 @snapend
 
-@snap[east span-40 h2-white]
-## Eeeeee
+@snap[east span-40]
+## Continuous integration / delivery
+28.1.2020 17:00 Kros 3. poschodie
 @snapend
