@@ -85,6 +85,6 @@ github.com/Burgyn
 
 ## DEMO
 
----
+---?color=white
 
-@img[](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
+@img[span-90](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
