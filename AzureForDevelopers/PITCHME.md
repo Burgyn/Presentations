@@ -8,7 +8,6 @@
 @img[shadow](AzureForDevelopers/assets/img/avatar.jpg)
 @snapend
 
-
 @snap[east span-27 text-center text-07 autor]
 
 Milan Martiniak
@@ -49,3 +48,33 @@ github.com/Burgyn
 
 ---
 @img[span-75](AzureForDevelopers/assets/img/pizza-as-a-service-final.png)
+
+---
+
+## Čo je to Azure?
+
+- Dátové centrá
+- Hardware
+- Služby
+- Management (portál/cdk)
+- ...
+
+---
+
+obrázok s dátovým centrom
+
+---
+
+obrázok s dátovými centrami po svete
+
+---
+
+obrázok s kontajnerom
+
+---
+
+obrázok so službami
+
+---color=green
+
+demo
