@@ -25,3 +25,5 @@ martiniak@kros.sk
 github.com/Burgyn
 
 @snapend
+
+---?image=AzureDevelopers/assets/img/cloud-models-final.png
