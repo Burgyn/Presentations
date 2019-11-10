@@ -70,19 +70,16 @@ github.com/Burgyn
 
 ---
 
-obrázok s dátovým centrom
+@img[span-80](https://www.afcea.org/content/sites/default/files/styles/flexslider_full/public/field/image/F7%20Jan%20choice%201%20as%20main%20photo%20Microsoft%20Azure%20data%20center%20in%20rural%20area.jpg?itok=oeTjtjOE)
 
----
-
-obrázok s dátovými centrami po svete
+---?image=https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2018/04/azure-map.jpg?itok=hc5BJbWH
 
 ---
 
 obrázok s kontajnerom
 
 ---
-
-obrázok so službami
+@img[span-80](https://cloudyinnashville.files.wordpress.com/2016/09/image3.png)
 
 ---?color=#27ae60
 
