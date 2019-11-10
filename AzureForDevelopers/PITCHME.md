@@ -39,13 +39,13 @@ github.com/Burgyn
 @img[](AzureForDevelopers/assets/img/cloud-models-final.png)
 
 ---
-@img[](AzureForDevelopers/assets/img/pizza-as-a-service-1.png)
+@img[span-80](AzureForDevelopers/assets/img/pizza-as-a-service-1.png)
 
 ---
-@img[](AzureForDevelopers/assets/img/pizza-as-a-service-2.png)
+@img[span-90](AzureForDevelopers/assets/img/pizza-as-a-service-2.png)
 
 ---
-@img[](AzureForDevelopers/assets/img/pizza-as-a-service-3.png)
+@img[span-70](AzureForDevelopers/assets/img/pizza-as-a-service-3.png)
 
 ---
 @img[](AzureForDevelopers/assets/img/pizza-as-a-service-final.png)
