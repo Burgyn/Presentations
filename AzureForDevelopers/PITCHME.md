@@ -26,7 +26,14 @@ github.com/Burgyn
 
 @snapend
 
----?image=AzureForDevelopers/assets/img/cloud-models-final.png
+---
+@img[](AzureForDevelopers/assets/img/cloud-models-1.png)
+
+---
+@img[](AzureForDevelopers/assets/img/cloud-models-2.png)
+
+---
+@img[](AzureForDevelopers/assets/img/cloud-models-3.png)
 
 ---
 @img[](AzureForDevelopers/assets/img/cloud-models-final.png)
