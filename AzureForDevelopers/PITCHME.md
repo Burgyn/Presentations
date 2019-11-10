@@ -15,7 +15,7 @@ Milan Martiniak
 
 @snapend
 
-@snap[south-east span-25 text-04 text-left autor]
+@snap[south-east span-25 text-04 text-left autor font-roboto-medium]
 @img[span-12 social](AzureForDevelopers/assets/img/twitter.png) 
 @img[span-12 social](AzureForDevelopers/assets/img/outlook.png) 
 @img[span-12](AzureForDevelopers/assets/img/github.png)
