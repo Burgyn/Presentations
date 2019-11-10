@@ -58,12 +58,12 @@ github.com/Burgyn
 
 @snapend
 
-@ul[east text-left left-20]
+@ul[east text-left left-30]
 
 - Dátové centrá
 - Hardware
 - Služby
-- Management (portál/sdk)
+- Management
 - ...
 
 @ulend
