@@ -58,7 +58,7 @@ github.com/Burgyn
 
 @snapend
 
-@snap[north-east span-30 text-07]
+@snap[east span-30 text-07]
 @box[bg-green fragment](Dátové centrá# Azure poskytuje dátové centrá po celom svete)
 @snapend
 
@@ -66,11 +66,11 @@ github.com/Burgyn
 @box[bg-blue fragment](Hardware# Azure poskytuje hardware)
 @snapend
 
-@snap[south-east span-30 text-07]
-@box[bg-gold fragment](Skužby# Umožňuje Vám využívať ich služby)
+@snap[east span-30 text-07]
+@box[bg-gold fragment](Služby# Umožňuje Vám využívať ich služby)
 @snapend
 
-@snap[south-east span-30 text-07]
+@snap[east span-30 text-07]
 @box[bg-red fragment](Management# Poskytuje Vám management zdrojov, ktoré chcete využívať. Portál/SDK)
 @snapend
 
