@@ -15,7 +15,7 @@ Milan Martiniak
 
 @snapend
 
-@snap[south-east text-5]
+@snap[south-east text-05]
 
 @img[span-5](AzureForDevelopers/assets/img/twitter.png) @minomartiniak
 @img[span-5](AzureForDevelopers/assets/img/outlook.png) martiniak@kros.sk
