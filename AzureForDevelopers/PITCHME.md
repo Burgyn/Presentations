@@ -26,4 +26,4 @@ github.com/Burgyn
 
 @snapend
 
----?image=AzureDevelopers/assets/img/cloud-models-final.png
+---?image=AzureForDevelopers/assets/img/cloud-models-final.png
