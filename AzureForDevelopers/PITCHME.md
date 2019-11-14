@@ -25,8 +25,8 @@ github.com/Burgyn
 
 @snapend
 
----
-@snap[north]
+---?color=#34495e
+@snap[north text-white]
 
 ## Agenda
 
