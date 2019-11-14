@@ -26,9 +26,10 @@ github.com/Burgyn
 @snapend
 
 ---
-@snap[midpoint]
+@snap[north]
 
 ## Agenda
+
 @snapend
 
 @snap[midpoint text-06]
