@@ -27,7 +27,11 @@ github.com/Burgyn
 
 ---
 @snap[midpoint]
+
 ## Agenda
+@snapend
+
+@snap[midpoint text-06]
 
 - Ako prevádzkovať webové aplikácie?
 - Čo je to Azure?
@@ -38,7 +42,6 @@ github.com/Burgyn
   - Automatické nasadenie
   - Monitoroavanie
 - Q&A
-
 @snapend
 
 ---
