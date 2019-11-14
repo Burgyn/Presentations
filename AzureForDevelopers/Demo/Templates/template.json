@@ -7,7 +7,7 @@
             "type": "String"
         },
         "serverfarms_fri_photos_asp_test_externalid": {
-            "defaultValue": "/subscriptions/201bbd88-5ccc-47b0-b7e5-b7dd65985971/resourceGroups/FriPhotosRg-Test/providers/Microsoft.Web/serverfarms/fri-photos-asp-test",
+            "defaultValue": "/subscriptions/xxxxx/resourceGroups/FriPhotosRg-Test/providers/Microsoft.Web/serverfarms/fri-photos-asp-test",
             "type": "String"
         }
     },
