@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_fri_photos_as_test_name": {
+            "value": "fri-photos-as-test2"
+        },
+        "serverfarms_fri_photos_asp_test_externalid": {
+            "value": "/subscriptions/201bbd88-5ccc-47b0-b7e5-b7dd65985971/resourceGroups/FriPhotosRg/providers/Microsoft.Web/serverfarms/fri-photos-asp"
+        }
+    }
+}

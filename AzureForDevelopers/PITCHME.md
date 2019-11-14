@@ -41,7 +41,7 @@ github.com/Burgyn
   - WebApi monolit projekt a jeho nasadenie do Azure
   - Refaktor pre lepšie využitie potenciálu Azure
   - Automatické nasadenie
-  - Monitoroavanie
+  - Monitorovanie
 - Q&A
 @snapend
 
