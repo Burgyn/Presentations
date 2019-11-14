@@ -26,6 +26,22 @@ github.com/Burgyn
 @snapend
 
 ---
+@snap[midpoint]
+## Agenda
+
+- Ako prevádzkovať webové aplikácie?
+- Čo je to Azure?
+- Aké služby ponúka?
+- Demo
+  - WebApi monolit projekt a jeho nasadenie do Azure
+  - Refaktor pre lepšie využitie potenciálu Azure
+  - Automatické nasadenie
+  - Monitoroavanie
+- Q&A
+
+@snapend
+
+---
 @img[](AzureForDevelopers/assets/img/cloud-models-1.png)
 
 ---
