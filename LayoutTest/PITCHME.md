@@ -1,16 +1,6 @@
----?color=linear-gradient(90deg, white 66.66%, #5384AD 33.33%)
-
-@snap[west span-40 text-center]
-## Testing layout
-@snapend
-
-@snap[north-east span-30 text-center]
-![Testing](https://res.infoq.com/articles/continuous-testing-best-practices/en/headerimage/unlocking-continuous-testing-logo-big-1564402385131.jpg)
-@snapend
-
 ---?image=LayoutTest/assets/img/background.png
 
-@snap[north-west span-33]
+@snap[north-west span-33 text-left]
 ![north-west](LayoutTest/assets/img/compass.png)
 @snapend
 
@@ -18,11 +8,11 @@
 ![north](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[north-east span-33]
+@snap[north-east span-33 text-right]
 ![north-east](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[west span-33]
+@snap[west span-33 text-left]
 ![west](LayoutTest/assets/img/compass.png)
 @snapend
 
@@ -30,11 +20,11 @@
 ![midpoint](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[east span-33]
+@snap[east span-33 text-right]
 ![east](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[south-west span-33]
+@snap[south-west span-33 text-left]
 ![south-west](LayoutTest/assets/img/compass.png)
 @snapend
 
@@ -42,6 +32,6 @@
 ![south](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[south-east span-33]
+@snap[south-east span-33 text-right]
 ![south-east](LayoutTest/assets/img/compass.png)
 @snapend
