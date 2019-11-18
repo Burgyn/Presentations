@@ -1,4 +1,5 @@
----?color=linear-gradient(90deg, #5384AD 33.33%, white 66.66%)
+<!-- ---?color=linear-gradient(90deg, #5384AD 33.33%, white 66.66%) -->
+---?color=linear-gradient(90deg, black 33%, white 66%)
 
 @snap[east span-60 text-center]
 ## Azure pre vývojárov
