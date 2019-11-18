@@ -10,38 +10,38 @@
 
 ---?image=LayoutTest/assets/img/background.png
 
-@snap[north-west]
+@snap[north-west span-33]
 ![north-west](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[north]
+@snap[north span-33]
 ![north](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[north-east]
+@snap[north-east span-33]
 ![north-east](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[west]
+@snap[west span-33]
 ![west](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[midpoint]
+@snap[midpoint span-33]
 ![midpoint](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[east]
+@snap[east span-33]
 ![east](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[south-west]
+@snap[south-west span-33]
 ![south-west](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[south]
+@snap[south span-33]
 ![south](LayoutTest/assets/img/compass.png)
 @snapend
 
-@snap[south-east]
+@snap[south-east span-33]
 ![south-east](LayoutTest/assets/img/compass.png)
 @snapend
