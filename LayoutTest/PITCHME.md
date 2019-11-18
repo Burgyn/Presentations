@@ -8,17 +8,6 @@
 ![Testing](https://res.infoq.com/articles/continuous-testing-best-practices/en/headerimage/unlocking-continuous-testing-logo-big-1564402385131.jpg)
 @snapend
 
-
----?color=linear-gradient(90deg, #5384AD 33.33%, white 66.66%)
-
-@snap[east span-40 text-center]
-## Testing layout
-@snapend
-
-@snap[north-west span-30 text-center]
-![Testing](https://res.infoq.com/articles/continuous-testing-best-practices/en/headerimage/unlocking-continuous-testing-logo-big-1564402385131.jpg)
-@snapend
-
 ---?image=LayoutTest/assets/img/background.png
 
 @snap[north-west]
