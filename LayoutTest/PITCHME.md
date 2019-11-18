@@ -18,3 +18,5 @@
 @snap[north-west span-30 text-center]
 ![Testing](https://res.infoq.com/articles/continuous-testing-best-practices/en/headerimage/unlocking-continuous-testing-logo-big-1564402385131.jpg)
 @snapend
+
+---?image=assets/img/background.png
