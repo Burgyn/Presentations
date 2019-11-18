@@ -19,4 +19,4 @@
 ![Testing](https://res.infoq.com/articles/continuous-testing-best-practices/en/headerimage/unlocking-continuous-testing-logo-big-1564402385131.jpg)
 @snapend
 
----?image=assets/img/background.png
+---?image=LayoutTest/assets/img/background.png
