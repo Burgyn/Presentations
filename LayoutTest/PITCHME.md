@@ -11,37 +11,37 @@
 ---?image=LayoutTest/assets/img/background.png
 
 @snap[north-west]
-![north-west]()
+![north-west](LayoutTest/assets/img/compass.png)
 @snapend
 
 @snap[north]
-![north]()
+![north](LayoutTest/assets/img/compass.png)
 @snapend
 
 @snap[north-east]
-![north-east]()
+![north-east](LayoutTest/assets/img/compass.png)
 @snapend
 
 @snap[west]
-![west]()
+![west](LayoutTest/assets/img/compass.png)
 @snapend
 
 @snap[midpoint]
-![midpoint]()
+![midpoint](LayoutTest/assets/img/compass.png)
 @snapend
 
 @snap[east]
-![east]()
+![east](LayoutTest/assets/img/compass.png)
 @snapend
 
 @snap[south-west]
-![south-west]()
+![south-west](LayoutTest/assets/img/compass.png)
 @snapend
 
 @snap[south]
-![south]()
+![south](LayoutTest/assets/img/compass.png)
 @snapend
 
 @snap[south-east]
-![south-east]()
+![south-east](LayoutTest/assets/img/compass.png)
 @snapend
