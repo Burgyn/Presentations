@@ -143,8 +143,8 @@
                     "apiVersion": "2014-04-01",
                     "location": "[parameters('location')]",
                     "properties": {
-                      "endIpAddress": "0.0.0.0",
-                      "startIpAddress": "0.0.0.0"
+                        "endIpAddress": "255.255.255.255",
+                        "startIpAddress": "255.255.255.255"
                     },
                     "dependsOn": [
                         "[variables('sqlServerName')]"
