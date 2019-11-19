@@ -240,7 +240,7 @@
                       "startIpAddress": "0.0.0.0"
                     },
                     "dependsOn": [
-                        "[resourceId('Microsoft.Sql/servers', parameters('servers_fri_photos_dbs_test_name'))]"
+                        "[resourceId('Microsoft.Sql/servers/databases', [concat(parameters('servers_fri_photos_dbs_test_name'), '/', parameters('fri_photos_database_name'))])]"
                     ]
                   }
             ]
