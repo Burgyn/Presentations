@@ -56,7 +56,7 @@
     },
     "variables": {
         "sqlServerName": "[parameters('servers_fri_photos_dbs_test_name')]",
-        "databaseName": "[concat(variables('sqlServerName'), '/', parameters('fri_photos_database_name'))]"
+        "databaseName": "[parameters('fri_photos_database_name')]"
     },
     "resources": [
         {
