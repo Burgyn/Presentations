@@ -31,6 +31,9 @@
         },
         "smartdetectoralertrules_failure_anomalies___fri_photos_as_test_name": {
             "value": "failure anomalies - fri-photos-as-deploy"
+        },
+        "fri_photos_database_name":{
+            "defaultValue":"fri-photos-db-deploy"
         }
     }
 }
