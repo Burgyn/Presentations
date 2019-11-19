@@ -100,6 +100,7 @@
             "kind": "v12.0",
             "properties": {
                 "administratorLogin": "FriUser",
+                "administratorLoginPassword": "12Pouzivatel34",
                 "version": "12.0"
             }
         },
