@@ -115,7 +115,7 @@
             },
             "resources":[
                 {
-                    "type": "Microsoft.Sql/servers/databases",
+                    "type": "databases",
                     "apiVersion": "2017-10-01-preview",
                     "name": "[variables('databaseName')]",
                     "location": "westeurope",
