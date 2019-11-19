@@ -125,6 +125,10 @@ github.com/Burgyn
 ## DEMO
 
 ---?color=white
+@img[span-75](AzureForDevelopers/assets/img/refactored-schema.png)
+
+
+---?color=white
 
 @img[span-50](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
 
