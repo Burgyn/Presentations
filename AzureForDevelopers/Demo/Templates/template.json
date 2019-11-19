@@ -1,10 +1,7 @@
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
-    "parameters": {
-        "vulnerabilityAssessments_Default_storageContainerPath": {
-            "type": "SecureString"
-        },
+    "parameters": {        
         "sites_fri_photos_as_test_name": {
             "defaultValue": "fri-photos-as-test",
             "type": "String"
@@ -476,22 +473,7 @@
                 "emailAccountAdmins": false,
                 "retentionDays": 0
             }
-        },
-        {
-            "type": "Microsoft.Sql/servers/vulnerabilityAssessments",
-            "apiVersion": "2018-06-01-preview",
-            "name": "[concat(parameters('servers_fri_photos_dbs_test_name'), '/Default')]",
-            "dependsOn": [
-                "[resourceId('Microsoft.Sql/servers', parameters('servers_fri_photos_dbs_test_name'))]"
-            ],
-            "properties": {
-                "recurringScans": {
-                    "isEnabled": false,
-                    "emailSubscriptionAdmins": true
-                },
-                "storageContainerPath": "[parameters('vulnerabilityAssessments_Default_storageContainerPath')]"
-            }
-        },
+        },       
         {
             "type": "Microsoft.Storage/storageAccounts/blobServices",
             "apiVersion": "2019-04-01",
