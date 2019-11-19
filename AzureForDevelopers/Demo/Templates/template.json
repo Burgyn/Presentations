@@ -144,7 +144,7 @@
                     "location": "[parameters('location')]",
                     "properties": {
                         "endIpAddress": "255.255.255.255",
-                        "startIpAddress": "255.255.255.255"
+                        "startIpAddress": "0.0.0.0"
                     },
                     "dependsOn": [
                         "[variables('sqlServerName')]"
