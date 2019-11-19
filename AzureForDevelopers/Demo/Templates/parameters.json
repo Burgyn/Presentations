@@ -33,7 +33,7 @@
             "value": "failure anomalies - fri-photos-as-deploy"
         },
         "fri_photos_database_name":{
-            "defaultValue":"fri-photos-db-deploy"
+            "value":"fri-photos-db-deploy"
         }
     }
 }
