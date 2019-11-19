@@ -105,19 +105,19 @@ github.com/Burgyn
 @img[span-90](https://cloudyinnashville.files.wordpress.com/2016/09/image3.png)
 <!-- services -->
 
----
+---?color=white
 @img[span-75](AzureForDevelopers/assets/img/resources-1.png)
 
----
+---?color=white
 @img[span-75](AzureForDevelopers/assets/img/resources-2.png)
 
----
+---?color=white
 @img[span-75](AzureForDevelopers/assets/img/resources-3.png)
 
----
+---?color=white
 @img[span-75](AzureForDevelopers/assets/img/resources-4.png)
 
----
+---?color=white
 @img[span-75](AzureForDevelopers/assets/img/resources-full.png)
 
 ---?color=#27ae60
