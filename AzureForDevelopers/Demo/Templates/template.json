@@ -60,7 +60,10 @@
     },
     "variables": {
         "sqlServerName": "[parameters('servers_fri_photos_dbs_test_name')]",
-        "databaseName": "[parameters('fri_photos_database_name')]"
+        "databaseName": "[parameters('fri_photos_database_name')]",
+        "defaultSASKeyName": "RootManageSharedAccessKey",
+        "authRuleResourceId": "[resourceId('Microsoft.ServiceBus/namespaces/authorizationRules', parameters('namespaces_fri_photos_sb_testing_name'), variables('defaultSASKeyName'))]",
+	    "sbVersion": "2017-04-01"
     },
     "resources": [{
             "type": "microsoft.insights/actionGroups",
@@ -602,5 +605,15 @@
                 "publicAccess": "None"
             }
         }
-    ]
+    ],
+    "outputs": {
+        "NamespaceConnectionString": {
+          "type": "string",
+          "value": "[listkeys(variables('authRuleResourceId'), variables('sbVersion')).primaryConnectionString]"
+        },
+        "SharedAccessPolicyPrimaryKey": {
+          "type": "string",
+          "value": "[listkeys(variables('authRuleResourceId'), variables('sbVersion')).primaryKey]"
+        }
+      }
 }
