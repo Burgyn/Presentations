@@ -8,7 +8,7 @@
 @img[shadow autor](AzureForDevelopers/assets/img/IMAG2408.jpg)
 @snapend
 
-@snap[east span-27 text-center text-07 autor]
+@snap[east span-27 text-center text-07 autor-name]
 
 Milan Martiniak
 
