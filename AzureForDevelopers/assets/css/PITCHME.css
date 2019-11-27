@@ -13,6 +13,7 @@
     box-shadow: 0 14px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19) !important;
 }
 
+
 /* .social {
     padding-right: 7px !important;
 }
@@ -20,4 +21,9 @@
 
 .autor {
     margin-left: 75px !important;
-} 
+}
+
+.autor-name {
+    right: -10px !important;
+    margin-top: -95px !important;
+}
