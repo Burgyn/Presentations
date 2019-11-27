@@ -45,6 +45,17 @@ github.com/Burgyn
 - Q&A
 @snapend
 
+Note:
+- vyvýjal už niekto webovú/cloudovú aplikáciu?
+- Akým spôsobom ste ju prevádzkovali?
+- Na čo všetko by sme mali myslieť?
+  - samozrejme výkon
+  - ale čo keď výkon nestačí, ako škálovať?
+  - ako tam nasadzovať?
+    - monitorovať
+    - dostupnosť?
+    - ...
+
 ---
 @img[](AzureForDevelopers/assets/img/cloud-models-1.png)
 
