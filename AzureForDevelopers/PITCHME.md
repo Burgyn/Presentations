@@ -105,8 +105,8 @@ Note:
 
 <!-- datacenter -->
 
----
-@img[](https://azurecomcdn.azureedge.net/cvt-9dbc415a523290b1b35eda4bcf07d0abe189843b9dd3b860081c716a40a5f1c2/images/shared/regions-map-large.svg)
+---?image=https://azurecomcdn.azureedge.net/cvt-9dbc415a523290b1b35eda4bcf07d0abe189843b9dd3b860081c716a40a5f1c2/images/shared/regions-map-large.svg
+<!-- @img[]() -->
 <!-- datacenter list -->
 
 ---
