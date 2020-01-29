@@ -58,15 +58,6 @@ blog.burgyn.online
 ---?color=white
 @img[span-80](ContinuousDelivery/assets/img/Today.png)
 
-
-
----
-
-obrázok schémy čo ideme robiť
-
-Odkaz na strategy
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops
-
 ---?color=white
 
 @img[span-50](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
