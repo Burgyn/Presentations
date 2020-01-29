@@ -37,12 +37,22 @@ blog.burgyn.online
 
 ---
 
+---?color=#34495e
+@snap[north text-white]
+
 ## Prečo CD?
+
+@snapend
+
+@snap[midpoint text-06]
 
 - Rýchlejšie nasadzovanie
   - Dokážeme nasadzovať častejšie. (Po každom commite / sprinte)
 - Nižšia pravdepodobnosť chyby
 - Dokumentácia release procesu
+- ..
+
+@snapend
 
 ---
 
