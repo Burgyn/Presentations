@@ -1,7 +1,7 @@
 ---?color=linear-gradient(90deg, white 66.66%, #5384AD 33.33%)
 
 @snap[west span-60 text-center]
-## Azure pre vývojárov
+## Continuous Delivery
 @snapend
 
 @snap[north-east span-28 -center]
@@ -15,13 +15,11 @@ Milan Martiniak
 @snapend
 
 @snap[south-east span-25 text-04 text-left autor font-roboto-medium]
-@img[span-12 social](AzureForDevelopers/assets/img/twitter.png)
-@img[span-12 social](AzureForDevelopers/assets/img/outlook.png)
-@img[span-12](AzureForDevelopers/assets/img/github.png)
 
 @MinoMartiniak
 martiniak@kros.sk
 github.com/Burgyn
+blog.burgyn.online
 
 @snapend
 
@@ -45,6 +43,13 @@ github.com/Burgyn
   - Dokážeme nasadzovať častejšie. (Po každom commite / sprinte)
 - Nižšia pravdepodobnosť chyby
 - Dokumentácia release procesu
+
+---
+
+obrázok schémy čo ideme robiť
+
+Odkaz na strategy
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops
 
 ---?color=white
 
