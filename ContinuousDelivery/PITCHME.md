@@ -25,15 +25,15 @@ blog.burgyn.online
 
 ---
 
-# Kto už niekedy nasadzoval do produkcie?
+## Kto už niekedy nasadzoval do produkcie?
 
 ---
 
-# Kto už niekedy ručne nasadzoval do produkcie?
+## Kto už niekedy ručne nasadzoval do produkcie?
 
 ---
 
-# Kto už niekedy "rozbil" produkčné prostredie?
+## Kto už niekedy "rozbil" produkčné prostredie?
 
 ---
 
