@@ -35,8 +35,6 @@ blog.burgyn.online
 
 ## Kto už niekedy "rozbil" produkčné prostredie?
 
----
-
 ---?color=#34495e
 @snap[north text-white]
 
@@ -50,9 +48,29 @@ blog.burgyn.online
   - Dokážeme nasadzovať častejšie. (Po každom commite / sprinte)
 - Nižšia pravdepodobnosť chyby
 - Dokumentácia release procesu
-- ..
+- ...
 
 @snapend
+
+---?color=white
+@img[](ContinuousDelivery/assets/img/ToDosDemo.PNG)
+
+---?color=white
+@img[](ContinuousDelivery/assets/img/ToDosDemoDeploy.PNG)
+
+---?color=white
+@img[](ContinuousDelivery/assets/img/ToDosDemoOur.PNG)
+
+---?color=white
+@img[](ContinuousDelivery/assets/img/OurEnvironments.png)
+
+---?color=white
+@img[](ContinuousDelivery/assets/img/Want.png)
+
+---?color=white
+@img[](ContinuousDelivery/assets/img/Today.png)
+
+
 
 ---
 
