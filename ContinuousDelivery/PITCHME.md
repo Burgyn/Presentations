@@ -25,6 +25,26 @@ github.com/Burgyn
 
 @snapend
 
+---
+
+# Kto už niekedy nasadzoval do produkcie?
+
+---
+
+# Kto už niekedy ručne nasadzoval do produkcie?
+
+---
+
+# Kto už niekedy "rozbil" produkčné prostredie?
+
+---
+
+## Prečo CD?
+
+- Rýchlejšie nasadzovanie
+  - Dokážeme nasadzovať častejšie. (Po každom commite / sprinte)
+- Nižšia pravdepodobnosť chyby
+- Dokumentácia release procesu
 
 ---?color=white
 
