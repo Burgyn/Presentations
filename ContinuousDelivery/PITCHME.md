@@ -23,18 +23,6 @@ blog.burgyn.online
 
 @snapend
 
----
-
-## Kto už niekedy nasadzoval do produkcie?
-
----
-
-## Kto už niekedy ručne nasadzoval do produkcie?
-
----
-
-## Kto už niekedy "rozbil" produkčné prostredie?
-
 ---?color=#34495e
 @snap[north text-white]
 
