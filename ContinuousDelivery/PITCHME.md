@@ -53,22 +53,22 @@ blog.burgyn.online
 @snapend
 
 ---?color=white
-@img[](ContinuousDelivery/assets/img/ToDosDemo.PNG)
+@img[span-75](ContinuousDelivery/assets/img/ToDosDemo.PNG)
 
 ---?color=white
-@img[](ContinuousDelivery/assets/img/ToDosDemoDeploy.PNG)
+@img[span-75](ContinuousDelivery/assets/img/ToDosDemoDeploy.PNG)
 
 ---?color=white
-@img[](ContinuousDelivery/assets/img/ToDosDemoOur.PNG)
+@img[span-75](ContinuousDelivery/assets/img/ToDosDemoOur.PNG)
 
 ---?color=white
-@img[](ContinuousDelivery/assets/img/OurEnvironments.png)
+@img[span-75](ContinuousDelivery/assets/img/OurEnvironments.png)
 
 ---?color=white
-@img[](ContinuousDelivery/assets/img/Want.png)
+@img[span-75](ContinuousDelivery/assets/img/Want.png)
 
 ---?color=white
-@img[](ContinuousDelivery/assets/img/Today.png)
+@img[span-75](ContinuousDelivery/assets/img/Today.png)
 
 
 
