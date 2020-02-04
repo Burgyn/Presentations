@@ -61,3 +61,5 @@ blog.burgyn.online
 ---?color=white
 
 @img[span-50](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
+
+@img[south-east span-30](ContinuousDelivery/assets/img/qrcode.png)
