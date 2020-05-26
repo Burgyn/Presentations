@@ -44,8 +44,6 @@ Note:
 
 @img[span-75](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/direct-client-to-microservice-communication-versus-the-api-gateway-pattern/multiple-custom-api-gateways.png)
 
----?color=#27ae60
-
 ---
 
 ## Vlastnosti
@@ -69,8 +67,8 @@ Note:
 
 - Azure
   - API Management
-  *- Aplication Gateway
-  - Front Door*
+  - *Aplication Gateway*
+  - *Front Door*
 - Ocelot
 - ...
 
