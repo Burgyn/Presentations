@@ -23,14 +23,15 @@ Jednou z otázok je aj ako má klient pristupovať k jednotlivým službám. Pok
 
 ---
 
+## Otázky
+
 - Ako minimalizovať počet dotazov na server?
 - Ako redukovať komplexnosť klienta? 
 - Ako spravovať prierezovú funkčnosť?
 - Ako pripraviť API pre viaceré typy klientov?
 - ...
 
-Notes:
-
+Note:
 *(množstvo adries, zbytočná business logika, previazanie s konkrétnymi službami, ...)*
 *(Autorizácia, logovanie, kešovanie, ...)*
 *(browser, mobile, ...)*
