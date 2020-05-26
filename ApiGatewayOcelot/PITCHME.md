@@ -53,7 +53,7 @@ Note:
 - Reverse proxy / gateway routing
 - Request aggregation
 - Cross-cutting concerns / gateway offloading
-  - AAuthentication and authorization
+  - Authentication and authorization
   - Service discovery integration
   - Response caching
   - Retry policies, circuit breaker, and QoS
@@ -62,7 +62,6 @@ Note:
   - Logging, tracing, correlation
   - Headers, query strings, and claims transformation
   - IP whitelisting
-  - 
 @snapend
 
 ---
