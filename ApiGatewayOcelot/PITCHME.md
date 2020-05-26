@@ -48,10 +48,11 @@ Note:
 
 ## Vlastnosti
 
+@snap[text-06]
+
 - Reverse proxy / gateway routing
 - Request aggregation
 - Cross-cutting concerns / gateway offloading
-@snap[text-06]
   - AAuthentication and authorization
   - Service discovery integration
   - Response caching
@@ -61,6 +62,7 @@ Note:
   - Logging, tracing, correlation
   - Headers, query strings, and claims transformation
   - IP whitelisting
+  - 
 @snapend
 
 ---
