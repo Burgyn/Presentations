@@ -91,12 +91,6 @@ Ako to používame my.
 - transformácia query stringov na claims
 - 
 
----?color=white
-
-@img[span-50](http://catchingfire.ca/wp-content/uploads/2016/09/question-mark-square-01.png)
-
-@img[south-east span-30](AzureForDevelopers/assets/img/qrcode.png)
-
 ---?color=linear-gradient(100deg, white 50%, #1F6ED4 50.2%)
 
 @snap[west span-60]
