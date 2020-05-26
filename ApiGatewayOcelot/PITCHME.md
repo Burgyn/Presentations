@@ -1,4 +1,4 @@
----?color=linear-gradient(90deg, white 66.66%, #5384AD 33.33%)
+---
 
 ## Building .NET Core API Gateway with Ocelot & MMLib.SwaggerForOcelo
 
@@ -6,14 +6,11 @@
 
 ## Agenda
 
-@snap[midpoint text-06]
-
 - Aký problém riešime?
 - Čo je to Api Gateway pattern?
 - Ocelot
 - Demo
 - Q&A
-@snapend
 
 ---
 
