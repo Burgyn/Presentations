@@ -52,7 +52,7 @@ Note:
 - Request aggregation
 - Cross-cutting concerns / gateway offloading
 @snap[text-06]
-  - Authentication and authorization
+  - AAuthentication and authorization
   - Service discovery integration
   - Response caching
   - Retry policies, circuit breaker, and QoS
