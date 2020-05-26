@@ -51,7 +51,7 @@ Note:
 - Reverse proxy / gateway routing
 - Request aggregation
 - Cross-cutting concerns / gateway offloading
-@snap[text-15]
+@snap[text-9]
   - Authentication and authorization
   - Service discovery integration
   - Response caching
