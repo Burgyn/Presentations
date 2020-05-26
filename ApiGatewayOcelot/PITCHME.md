@@ -51,6 +51,7 @@ Note:
 - Reverse proxy / gateway routing
 - Request aggregation
 - Cross-cutting concerns / gateway offloading
+@snap[text-15]
   - Authentication and authorization
   - Service discovery integration
   - Response caching
@@ -60,6 +61,7 @@ Note:
   - Logging, tracing, correlation
   - Headers, query strings, and claims transformation
   - IP whitelisting
+@snapend
 
 ---
 
@@ -89,8 +91,7 @@ Note:
 Ako to používame my.
 - Autorizácia
 - transformácia query stringov na claims
-- 
-
+  
 ---?color=linear-gradient(100deg, white 50%, #1F6ED4 50.2%)
 
 @snap[west span-60]
