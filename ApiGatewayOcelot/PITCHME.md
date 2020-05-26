@@ -14,8 +14,6 @@
 
 ---
 
-## Problém
-
 @img[span-75](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/direct-client-to-microservice-communication.png)
 
 Note:
@@ -26,10 +24,16 @@ Jednou z otázok je aj ako má klient pristupovať k jednotlivým službám. Pok
 ---
 
 - Ako minimalizovať počet dotazov na server?
-- Ako redukovať komplexnosť klienta? *(množstvo adries, zbytočná business logika, previazanie s konkrétnymi službami, ...)*
-- Ako spravovať prierezovú funkčnosť? *(Autorizácia, logovanie, kešovanie, ...)*
-- Ako pripraviť API pre viaceré typy klientov? *(browser, mobile, ...)*
+- Ako redukovať komplexnosť klienta? 
+- Ako spravovať prierezovú funkčnosť?
+- Ako pripraviť API pre viaceré typy klientov?
 - ...
+
+Notes:
+
+*(množstvo adries, zbytočná business logika, previazanie s konkrétnymi službami, ...)*
+*(Autorizácia, logovanie, kešovanie, ...)*
+*(browser, mobile, ...)*
 
 ---
 
