@@ -1,6 +1,6 @@
 ---
 
-@img[span-75](ApiGatewayOcelot/assets/slide.png)
+@img[span-75](ApiGatewayOcelot/assets/img/slide.png)
 
 ---
 
