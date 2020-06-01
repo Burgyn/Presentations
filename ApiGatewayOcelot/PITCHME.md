@@ -1,6 +1,6 @@
 ---
 
-## Building .NET Core API Gateway with Ocelot & MMLib.SwaggerForOcelo
+@img[span-75](ApiGatewayOcelot/assets/slide.png)
 
 ---
 
