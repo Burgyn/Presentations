@@ -17,7 +17,7 @@
 @img[span-75](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/media/direct-client-to-microservice-communication.png)
 
 Note:
-Mikroslužby sú aktuálny trend. Riešia veľa problémov, ktoré sme mali s monolymi, ale taktiež veľa problémov, alebo skôr otázok prinášajú. 
+Mikroslužby sú aktuálny trend. Riešia veľa problémov, ktoré sme mali s monolymi, ale taktiež veľa problémov, alebo skôr otázok prinášajú.
 (Tranzakcie, duplicita dát, managovanie všetkých služieb, ...)
 Jednou z otázok je aj ako má klient pristupovať k jednotlivým službám. Pokiaľ sa jedná o pár služiem tak ešte ok. Ale ak sa jedná o naozaj väčší problém tak už to je celkom zložitejšie.
 
@@ -26,7 +26,7 @@ Jednou z otázok je aj ako má klient pristupovať k jednotlivým službám. Pok
 ## Otázky
 
 - Ako minimalizovať počet dotazov na server?
-- Ako redukovať komplexnosť klienta? 
+- Ako redukovať komplexnosť klienta?
 - Ako spravovať prierezovú funkčnosť?
 - Ako pripraviť API pre viaceré typy klientov?
 - ...
@@ -85,14 +85,22 @@ Note:
 
 ---
 
-Čo si ukážeme si. Zoznam služieb. 
+@img[span-75](/assets/img/schema-base.png)
+
+---
+
+@img[span-75](/assets/img/schema-withoutOcelot.png)
+
+---
+
+@img[span-75](/assets/img/schema-full.png)
 
 ---
 
 Ako to používame my.
 - Autorizácia
 - transformácia query stringov na claims
-  
+
 ---?color=linear-gradient(100deg, white 50%, #1F6ED4 50.2%)
 
 @snap[west span-60]
@@ -100,12 +108,12 @@ Ako to používame my.
 @snapend
 
 @snap[east span-50 h3-white]
-### Continuous 
-### integration 
+### Continuous
+### integration
 ### / delivery
 @snapend
 
 @snap[south-east]
-28.1.2020 17:00 
+28.1.2020 17:00
 Kros 3. poschodie
 @snapend
