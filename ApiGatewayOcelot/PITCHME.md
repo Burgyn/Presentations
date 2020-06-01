@@ -85,15 +85,15 @@ Note:
 
 ---
 
-@img[span-75](/assets/img/schema-base.png)
+@img[span-75](ApiGatewayOcelot/assets/img/schema-base.png)
 
 ---
 
-@img[span-75](/assets/img/schema-withoutOcelot.png)
+@img[span-75](ApiGatewayOcelot/assets/img/schema-withoutOcelot.png)
 
 ---
 
-@img[span-75](/assets/img/schema-full.png)
+@img[span-75](ApiGatewayOcelot/assets/img/schema-full.png)
 
 ---
 
