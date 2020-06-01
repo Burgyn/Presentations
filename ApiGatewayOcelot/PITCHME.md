@@ -1,6 +1,4 @@
----
-
-@img[](ApiGatewayOcelot/assets/img/slide.png)
+---?image=ApiGatewayOcelot/assets/img/slide.png
 
 ---
 
