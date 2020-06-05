@@ -98,13 +98,4 @@ Note:
 Ako to používame my.
 @img[span-75](ApiGatewayOcelot/assets/img/full-schema.png)
 
----?color=linear-gradient(100deg, white 50%, #1F6ED4 50.2%)
-
-@snap[west span-40]
-@img[shadow](ApiGatewayOcelot/assets/img/question-mark.png)
-@snapend
-
-@snap[east span-20]
-@img[shadow](ApiGatewayOcelot/assets/img/qrcode.png)
-www.burgyn.online
-@snapend
+---?image=ApiGatewayOcelot/assets/img/final.png
