@@ -96,8 +96,7 @@ Note:
 ---
 
 Ako to používame my.
-- Autorizácia
-- transformácia query stringov na claims
+@img[span-75](ApiGatewayOcelot/assets/img/full-schema.png)
 
 ---?color=linear-gradient(100deg, white 50%, #1F6ED4 50.2%)
 
