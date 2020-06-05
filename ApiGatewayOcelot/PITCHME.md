@@ -100,10 +100,11 @@ Ako to používame my.
 
 ---?color=linear-gradient(100deg, white 50%, #1F6ED4 50.2%)
 
-@snap[west span-20]
+@snap[west span-40]
 @img[shadow](ApiGatewayOcelot/assets/img/question-mark.png)
 @snapend
 
 @snap[east span-20]
 @img[shadow](ApiGatewayOcelot/assets/img/qrcode.png)
+www.burgyn.online
 @snapend
