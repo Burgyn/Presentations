@@ -93,9 +93,5 @@ Note:
 
 @img[span-75](ApiGatewayOcelot/assets/img/schema-full.png)
 
----
-
-Ako to používame my.
-@img[span-75](ApiGatewayOcelot/assets/img/full-schema.png)
 
 ---?image=ApiGatewayOcelot/assets/img/final.png
